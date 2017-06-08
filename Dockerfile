@@ -1,4 +1,4 @@
-FROM pdal/pdal:latest
+FROM pdal/pdal:1.5
 
 # Pick up some dependencies
 RUN apt-get update && apt-get install -y --no-install-recommends \
