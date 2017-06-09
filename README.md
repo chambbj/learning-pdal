@@ -4,6 +4,14 @@ The purpose of this repository is to provide instructions as to how one can get 
 
 # Getting Started
 
+## Initialize and Update Data Submodule
+
+```bash
+$ cd notebooks/data
+$ git submodule init
+$ git submodule update
+```
+
 ## Pulling the Image
 
 ```bash
