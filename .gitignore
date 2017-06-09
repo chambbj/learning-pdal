@@ -1,5 +1,6 @@
 # Downloaded notebook data
 notebooks/*.laz
+notebooks/*.csd
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
